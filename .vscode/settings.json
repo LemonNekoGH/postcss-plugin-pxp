@@ -1,0 +1,8 @@
+{
+  "eslint.runtime": "bun",
+  "eslint.execArgv": ["--bun"],
+
+  "editor.codeActionsOnSave": {
+      "source.fixAll.eslint": "always"
+  }
+}
