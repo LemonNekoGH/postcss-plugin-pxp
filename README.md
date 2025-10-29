@@ -2,6 +2,20 @@
 
 A postcss plugin to create a custom unit `pxp` that is a combination of `px` and `var`, it's very useful in game development.
 
+## Install
+
+This package is available on npm, so you can use any package manager that supports npm to install it.
+
+```bash
+npm install @lemonneko/postcss-plugin-pxp
+# or
+yarn add @lemonneko/postcss-plugin-pxp
+# or
+pnpm add @lemonneko/postcss-plugin-pxp
+# or
+bun add @lemonneko/postcss-plugin-pxp
+```
+
 ## Get Started
 
 To use this plugin, you need to add it to your `postcss.config.ts` file.
